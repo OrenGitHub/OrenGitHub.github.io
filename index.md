@@ -1,10 +1,16 @@
 ## `$ whoami`
 
-* I am a CS Phd student in TAU, under the supervision of [Prof. N. Rinetzky](https://www.cs.tau.ac.il/~maon/).
-* I love programming languages and everything about them.
-  * compilers
-  * static analyzers
+- I am a CS Phd student in TAU, under the supervision of [Prof. N. Rinetzky](https://www.cs.tau.ac.il/~maon/).
+- I am a Lecturer and teaching asistant in MTA, IDC.
 
-## Published Papers
+## `this->getPublishedPapers()`
 
-[Link](url) and ![Image](src)
+- Update
+- Update
+- Update
+
+## `this->getVolunteerWork()`
+
+- Update
+- Update
+- Update
