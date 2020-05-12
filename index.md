@@ -6,11 +6,11 @@
 
 ## `getPublishedPapers()`
 
-- [Summarizing string loops in C](https://github.com/OrenGitHub/OrenGitHub.github.io/blob/master/papers/paper_1_pldi_2019.pdf)
-- Update
-- Update
+- [Summarizing C string loops](https://github.com/OrenGitHub/OrenGitHub.github.io/blob/master/papers/paper_1_pldi_2019.pdf)
+- [Inverting C string procedures with statis analysis](https://github.com/OrenGitHub/OrenGitHub.github.io/blob/master/papers/paper_2_vmcai_2020.pdf)
+- [Verifying array programs with inductive rank reduction](https://github.com/OrenGitHub/OrenGitHub.github.io/blob/master/papers/paper_3_vmcai_2020.pdf)
 
-## `this->getVolunteerWork()`
+## `getVolunteerWork()`
 
 - Update
 - Update
