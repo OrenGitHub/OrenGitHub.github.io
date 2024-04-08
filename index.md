@@ -1,4 +1,4 @@
-### `installation`
+## `installation`
 
 ```bash
 $ git clone https://github.com/OrenGitHub/dhscanner.git
